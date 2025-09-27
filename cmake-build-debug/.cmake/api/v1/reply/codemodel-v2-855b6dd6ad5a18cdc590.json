@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Teste2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Teste2-Debug-bb8cf6440229b228c7fa.json",
+					"jsonFile" : "target-Teste2-Debug-aec565c87d2928efd4b1.json",
 					"name" : "Teste2",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 8
 	}
 }
