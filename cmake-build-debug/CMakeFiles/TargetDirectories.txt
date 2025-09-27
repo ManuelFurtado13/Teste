@@ -1,0 +1,3 @@
+C:/Users/Manuel Furtado/CLionProjects/Teste2/cmake-build-debug/CMakeFiles/Teste2.dir
+C:/Users/Manuel Furtado/CLionProjects/Teste2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Manuel Furtado/CLionProjects/Teste2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
